@@ -20,7 +20,7 @@ The software was written by Simon Biggs using the [Processing.org](https://proce
 
 There are three Processing sketches to run Double Agent.
 
-1. Kinect2UDP - sensor to detect live skeletons, and a UDP server to send the skeleton data to another computer to display the data.
+1. [Kinect2UDP](Kinect2UDP) - sensor to detect live skeletons, and a UDP server to send the skeleton data to another computer to display the data.
 2. DoubleAgent 1 - projection app showing the machine learning data.
 3. DoubleAgent 2 - projection app showing the live data.
 
