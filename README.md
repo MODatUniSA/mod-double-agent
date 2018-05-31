@@ -24,8 +24,6 @@ There are three Processing sketches to run Double Agent.
 2. DoubleAgent 1 - projection app showing the machine learning data.
 3. DoubleAgent 2 - projection app showing the live data.
 
-**TODO**: Add double agent projects as [sub-modules](https://blog.github.com/2016-02-01-working-with-submodules/)
-
 There are also some third party libraries used that aren’t included in this repository, below are instructions to install them:
 
 * **TODO**: include instructions.
