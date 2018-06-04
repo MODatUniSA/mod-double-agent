@@ -24,7 +24,7 @@ There are three Processing sketches to run Double Agent.
 2. DoubleAgent 1* - projection app showing the machine learning data.
 3. DoubleAgent 2* - projection app showing the live data.
 
-*Unfortunately the third party library `PJBullet.jar` which ports [jbullet.jar](http://jbullet.advel.cz) to Processing wasn’t able to be included due to licensing issues. So rather than post broken Double Agent code, below is an example app showing receiver code for the Kinect2UDP app.
+*Unfortunately the third party library `PJBullet.jar` which ports [jbullet.jar](http://jbullet.advel.cz) to Processing wasn’t able to be included due to licensing. So rather than post non-running Double Agent code, below is an example sketch showing receiver code for the Kinect2UDP app.
 
 [Kinect2UDP_Receiver](https://github.com/MODatUniSA/Kinect2UDP_Receiver) - Processing app for MacOS to receive Kinect V2 data from Windows computer running the Kinect2UDP app over UDP.
 
