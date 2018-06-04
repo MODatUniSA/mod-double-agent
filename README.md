@@ -21,12 +21,12 @@ The software was written by Simon Biggs using the [Processing.org](https://proce
 There are three Processing sketches to run Double Agent.
 
 1. [Kinect2UDP](https://github.com/MODatUniSA/Kinect2UDP) - sensor to detect live skeletons, and a UDP server to send the skeleton data to another computer to display the data.
-2. DoubleAgent 1 - projection app showing the machine learning data.
-3. DoubleAgent 2 - projection app showing the live data.
+2. DoubleAgent 1* - projection app showing the machine learning data.
+3. DoubleAgent 2* - projection app showing the live data.
 
-There are also some third party libraries used that aren’t included in this repository, below are instructions to install them:
+*Unfortunately the third party library `PJBullet.jar` which ports [jbullet.jar](http://jbullet.advel.cz) to Processing wasn’t able to be included due to licensing issues. So rather than post broken Double Agent code, below is an example app showing receiver code for the Kinect2UDP app.
 
-* **TODO**: include instructions.
+[Kinect2UDP_Receiver](https://github.com/MODatUniSA/Kinect2UDP_Receiver) - Processing app for MacOS to receive Kinect V2 data from Windows computer running the Kinect2UDP app over UDP.
 
 ## Hardware
 

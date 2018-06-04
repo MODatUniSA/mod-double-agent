@@ -1,3 +1,6 @@
 [submodule "Kinect2UDP"]
 	path = Kinect2UDP
 	url = https://github.com/MODatUniSA/Kinect2UDP
+[submodule "Kinect2UDP_Receiver"]
+	path = Kinect2UDP_Receiver
+	url = https://github.com/MODatUniSA/Kinect2UDP_Receiver
